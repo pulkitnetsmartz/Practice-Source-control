@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="demo" table="x_1252523_practice_device_request">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Demo</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>demo</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="String">string</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_1252523_practice_device_request</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-02 15:01:27</sys_created_on>
+        <sys_name>Demo</sys_name>
+        <sys_package display_value="Practice" source="x_1252523_practice">281c4817c382121036cfbfddd4013126</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Practice">281c4817c382121036cfbfddd4013126</sys_scope>
+        <sys_update_name>sys_dictionary_x_1252523_practice_device_request_demo</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-02 15:01:27</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Practice">281c4817c382121036cfbfddd4013126</application>
+        <file_path/>
+        <instance_id>9266c558db11c290ebdd2a591396197a</instance_id>
+        <instance_name>dev250658</instance_name>
+        <name>sys_dictionary_x_1252523_practice_device_request_demo</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;
+    &lt;sys_dictionary action="INSERT_OR_UPDATE" element="demo" table="x_1252523_practice_device_request"&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;array&gt;false&lt;/array&gt;
+        &lt;attributes/&gt;
+        &lt;audit&gt;false&lt;/audit&gt;
+        &lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;
+        &lt;choice/&gt;
+        &lt;choice_field/&gt;
+        &lt;choice_table/&gt;
+        &lt;column_label&gt;Demo&lt;/column_label&gt;
+        &lt;comments/&gt;
+        &lt;create_roles/&gt;
+        &lt;default_value/&gt;
+        &lt;defaultsort/&gt;
+        &lt;delete_roles/&gt;
+        &lt;dependent/&gt;
+        &lt;dependent_on_field/&gt;
+        &lt;display&gt;false&lt;/display&gt;
+        &lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;
+        &lt;dynamic_creation_script/&gt;
+        &lt;dynamic_default_value/&gt;
+        &lt;dynamic_ref_qual/&gt;
+        &lt;element&gt;demo&lt;/element&gt;
+        &lt;element_reference&gt;false&lt;/element_reference&gt;
+        &lt;foreign_database/&gt;
+        &lt;formula/&gt;
+        &lt;function_definition/&gt;
+        &lt;function_field&gt;false&lt;/function_field&gt;
+        &lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;
+        &lt;mandatory&gt;false&lt;/mandatory&gt;
+        &lt;max_length&gt;40&lt;/max_length&gt;
+        &lt;name&gt;x_1252523_practice_device_request&lt;/name&gt;
+        &lt;next_element/&gt;
+        &lt;primary&gt;false&lt;/primary&gt;
+        &lt;read_only&gt;false&lt;/read_only&gt;
+        &lt;read_roles/&gt;
+        &lt;reference/&gt;
+        &lt;reference_cascade_rule/&gt;
+        &lt;reference_floats&gt;false&lt;/reference_floats&gt;
+        &lt;reference_key/&gt;
+        &lt;reference_qual/&gt;
+        &lt;reference_qual_condition/&gt;
+        &lt;reference_type/&gt;
+        &lt;spell_check&gt;false&lt;/spell_check&gt;
+        &lt;staged&gt;false&lt;/staged&gt;
+        &lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2024-12-02 15:01:27&lt;/sys_created_on&gt;
+        &lt;sys_name&gt;Demo&lt;/sys_name&gt;
+        &lt;sys_package display_value="Practice" source="x_1252523_practice"&gt;281c4817c382121036cfbfddd4013126&lt;/sys_package&gt;
+        &lt;sys_policy/&gt;
+        &lt;sys_scope display_value="Practice"&gt;281c4817c382121036cfbfddd4013126&lt;/sys_scope&gt;
+        &lt;sys_update_name&gt;sys_dictionary_x_1252523_practice_device_request_demo&lt;/sys_update_name&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2024-12-02 15:01:27&lt;/sys_updated_on&gt;
+        &lt;table_reference&gt;false&lt;/table_reference&gt;
+        &lt;text_index&gt;false&lt;/text_index&gt;
+        &lt;unique&gt;false&lt;/unique&gt;
+        &lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;
+        &lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;
+        &lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;
+        &lt;virtual&gt;false&lt;/virtual&gt;
+        &lt;virtual_type&gt;script&lt;/virtual_type&gt;
+        &lt;widget/&gt;
+        &lt;write_roles/&gt;
+        &lt;xml_view&gt;false&lt;/xml_view&gt;
+    &lt;/sys_dictionary&gt;
+&lt;/record_update&gt;</payload>
+        <payload_hash>1159139846</payload_hash>
+        <record_name>Device Request.Demo</record_name>
+        <reverted_from/>
+        <source>53178d2cc3d2121036cfbfddd40131e8</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-02 15:27:49</sys_created_on>
+        <sys_id>1c27016cc3d2121036cfbfddd401312b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19387fc28d00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-02 15:27:49</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>d427016c3ad212108c88ad328eb9b72b</update_guid>
+        <update_guid_history>d427016c3ad212108c88ad328eb9b72b:0,97c6c12c69d212104525c9f4673c52c4:1938848934,68f6492cbbd21210ef68287426f77c0f:0,97c6c12c69d212104525c9f4673c52c4:1938848934,bff289e44ad21210ffcf07f4b51e4f5f:0,97e1c1a48cd212104d8ad25c3ef8bfba:1938848934,8e114164a2d2121010ca5da38316d4b9:-1735395878</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-02 15:28:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>00ce3dc1eff143038a0122f5f331d579</sys_id>
+        <sys_metadata>ff17cd2cc3d2121036cfbfddd401313c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Demo</sys_name>
+        <sys_package display_value="Practice" source="x_1252523_practice">281c4817c382121036cfbfddd4013126</sys_package>
+        <sys_parent display_value="Device Request">227dc097c382121036cfbfddd4013109</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Practice">281c4817c382121036cfbfddd4013126</sys_scope>
+        <sys_scope_delete display_value="">2f2f549e09cb4784aab0347dac2e8c90</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1252523_practice_device_request_demo</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1252523_practice_device_request_demo">1c27016cc3d2121036cfbfddd401312b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-02 15:28:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
